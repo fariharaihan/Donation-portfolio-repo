@@ -64,6 +64,48 @@ p{
     text-align: center;
     margin-top: 40px;
 }
+#plan{
+    text-align: center;
+    font-weight: 850px;
+    margin-top: 60px;
+}
+.provide{
+    margin-top: 10px;
+    color: black;
+}
+#food{
+    font-size: 25px;
+    width: 300px;
+    height: 400px;
+    background-color: antiquewhite;
+    margin: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#education{
+    font-size: 25px;
+    width: 300px;
+    height: 400px;
+    background-color: aquamarine;
+    margin: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#shelter{
+    font-size: 25px;
+    width: 300px;
+    height: 400px;
+    background-color: antiquewhite;
+    margin: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.contener{
+    display: flex;
+    padding: 10px;
+    margin-left: 125px;
+}
+
 
 }
 
