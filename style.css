@@ -34,7 +34,7 @@ h3{
 .donation{
     color: black;
     font-size: 700;
-    margin-top: 35px;
+    margin-top: 30px;
 }
 .ammount{
     font-size: 30px;
@@ -64,13 +64,13 @@ p{
     text-align: center;
     margin-top: 40px;
 }
-#plan{
+.plan{
     text-align: center;
     font-weight: 850px;
     margin-top: 60px;
 }
 .provide{
-    margin-top: 10px;
+    margin-top: 5px;
     color: black;
 }
 #food{
@@ -105,14 +105,58 @@ p{
     padding: 10px;
     margin-left: 125px;
 }
-
-
+.half-width{
+    width: 50%;
+    padding-right: 5%;
+}
+.half-width img{
+    width:100%
+}
+#margin-top{
+    margin-top: 100px;
+}
+#email{
+    display: flex;
+    height: 100px;
+    width: 600px;
+    text-align: center;
+    justify-content: center;
+    background-color: lightpink;
+    margin-left: 350px;
+}
+.sub{
+    border-radius: 10px;
+}
+.sub input{
+    font-size: 20px;
+    margin-top: 25px;
+    border: none;
+    background-color: wheat;
+    padding: 15px 10px;
+}
+.sub button{
+    border-radius: 5px;
+    background-color: tomato;
+    padding: 15px 10px;
+    font-size: 22px;
+}
+footer{
+    background-color: black;
+    }
+#last-f{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    font-weight: bold;
+    font-style: oblique;
+    padding-top: 30px;
+}
+#new-f{
+    padding-bottom: 20px;
+    font-style: oblique;
 }
 
 
 
-}
 
-}
 
-}
